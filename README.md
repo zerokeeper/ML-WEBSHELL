@@ -16,4 +16,4 @@
 
 结果如下
 
-![ml-webshell](/Users/zero/Dropbox/Github/ML-WEBSHELL/ml-webshell.png)
+![ml-webshell](ml-webshell.png)
