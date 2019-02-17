@@ -1,6 +1,6 @@
 # ML-WEBSHELL
 
-利用机器学习做webshell检测的简单demo
+利用机器学习做的webshell检测demo
 
 黑样本使用的是ysrc/webshell-sample的php样本
 
@@ -16,4 +16,4 @@
 
 结果如下
 
-![ml-webshell](ml-webshell.png)
+![ml-webshell](https://github.com/zerokeeper/ML-WEBSHELL/blob/master/ml-webshell.png)
